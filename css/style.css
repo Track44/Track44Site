@@ -7,16 +7,6 @@
 /* ==========================================================================
     custom styles
    ========================================================================== */
-p {
-    line-height: 1.33em;
-    color: #7E7E7E;
-}
-h1 {
-    color: #EEEEEE;
-}
-p.white {
-    color: #E7E7E7;
-}
 
 body:not(.loaded) > *:not(#loader-wrapper) {
   display: none !important;  
