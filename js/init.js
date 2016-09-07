@@ -3,9 +3,12 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 */
 
 
-
-
-jQuery(window).load(function() { $("#loader").fadeOut(); );}
+$(document).ready(function() {
+ 	setTimeout(function(){		
+ 	$('body').addClass('loaded');		
+ 	}, 3000);		
+ 			
+ });
 
 (function($) {
 
