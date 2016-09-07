@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600');
+@import url('//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600');
 @import url('font-awesome.min.css');
 
 /* spaghetti code by unbendablestraw. some code was used from html5 up, css3 please!, and ihatetomatoes! */
@@ -8,6 +8,9 @@
     custom styles
    ========================================================================== */
 
+body:not(.loaded) > *:not(#loader-wrapper) {
+  display: none !important;  
+}
 
 #loader-wrapper {
     position: fixed;

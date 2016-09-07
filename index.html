@@ -19,9 +19,27 @@
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
-	<body>
+	
+	<style>
+		body:not(.loaded) {
+			background-color: #2E413F;
+		}
+		
+		body:not(.loaded) > *:not(#loader-wrapper) {
+			display: none !important;
+		}
+	</style>
+	
+	<body class="is-loading">
 
 		<!-- Header -->
+		
+		<div id="loader-wrapper">
+			<div id="loader"></div>
+			<div class="loader-section section-left"></div>
+         		<div class="loader-section section-right"></div>
+		</div>
+
 		<div id="content">
 			<section id="header">
 				<header>
@@ -32,14 +50,6 @@
 					<a href="#banner" class="button style2 scrolly-middle">Play Track 44</a>
 				</footer>
 			</section>
-			
-			</div>
-					<div id="loader-wrapper">
-			<div id="loader"></div>
-
-			<div class="loader-section section-left"></div>
-            <div class="loader-section section-right"></div>
-
 		</div>
 		
 
@@ -48,7 +58,7 @@
 				<header>
 					<h2>Hi!</h2>
 				</header>
-				<p>Track 44 is a community we've been building!<br />
+				<p class="white">Track 44 is a community we've been building!<br />
 				We welcome all hobbies and have our own servers for the more popular games.<br />
 				Here, you will find info on how to connect with us, as well as a little about me, UnbendableStraw!</a></p>
 
