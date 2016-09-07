@@ -2,14 +2,6 @@
 spaghetti code by unbendablestraw. some code was used from html5 up, css3 please!, and ihatetomatoes!
 */
 
-
-$(window).load(function() {
- 	//setTimeout(function(){		
- 	$('body').addClass('loaded');		
- 	//}, 3000);		
- 			
- });
-
 (function($) {
 
 	var settings = {
@@ -53,6 +45,7 @@ $(window).load(function() {
 
 			$window.on('load', function() {
 				$body.removeClass('is-loading');
+				$body.addClass('loaded');
 			});
 
 		// CSS polyfills (IE<9).
