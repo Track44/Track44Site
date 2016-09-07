@@ -9,10 +9,13 @@
    ========================================================================== */
 p {
     line-height: 1.33em;
-    color: #E7E7E7;
+    color: #7E7E7E;
 }
 h1 {
     color: #EEEEEE;
+}
+p.white {
+    color: #E7E7E7;
 }
 
 body:not(.loaded) > *:not(#loader-wrapper) {
