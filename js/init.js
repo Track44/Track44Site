@@ -4,9 +4,9 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 
 
 $(document).ready(function() {
- 	setTimeout(function(){		
+ 	//setTimeout(function(){		
  	$('body').addClass('loaded');		
- 	}, 3000);		
+ 	//}, 3000);		
  			
  });
 
