@@ -67,6 +67,12 @@ body:not(.loaded) > *:not(#loader-wrapper) {
         -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
           animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
     }
+    
+ br {
+  content: " ";
+  display: block;
+  margin: 1em;
+}
 
     @-webkit-keyframes spin {
         0%   {
