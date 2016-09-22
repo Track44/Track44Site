@@ -605,6 +605,10 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 			width: 100%;
 		}
 
+		td {
+			padding-left: 35px;
+			padding-right: 35px;
+		}
 			table.default
 			{
 				width: 100%;
