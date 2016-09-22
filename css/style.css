@@ -1080,6 +1080,7 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
 		margin: 4.5em 0 0 0;
+		bottom: 1em;
 	}
 
 		#footer:after
