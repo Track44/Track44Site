@@ -3,7 +3,7 @@
 <!-- Ban Farn, also the comment above has been incorrectly formatted for quite some time... -->
 <html>
 	<head>
-		<title>Track 44 Email Setup</title>
+		<title>Track 44</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -19,6 +19,39 @@
 		</noscript>
 		<!-- [if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif] -->
 	</head>
+	
+	<style>
+		body:not(.loaded) {
+			background-color: #2E413F;
+		}
+		
+		body:not(.loaded) > *:not(#loader-wrapper) {
+			display: none !important;
+		}
+	</style>
+	
+	<body class="is-loading">
+
+		<!-- Header -->
+		
+		<div id="loader-wrapper">
+			<div id="loader"></div>
+			<div class="loader-section section-left"></div>
+         		<div class="loader-section section-right"></div>
+		</div>
+
+		<div id="content">
+			<section id="header">
+				<header>
+					<h1>Welcome</h1>
+					<p>To Track 44</p>
+				</header>
+				<footer style="bottom: 6em;">
+					<a href="#banner" class="button style2 scrolly-middle">Connect to the Wired</a>
+				</footer>
+			</section>
+		</div>
+		
 		<!-- Banner -->
 			<section id="banner">
 				<p class="white">Congratulations on your new Track 44 email! You are allowed to do whatever you want with it. This is a private server hosted from QuickPacket, running Ubuntu Server 14.04 and Mail-In-A-Box. It is secure, locally hosted, and private.</p>
