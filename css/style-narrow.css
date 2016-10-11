@@ -106,7 +106,10 @@ credit to Rem for probably fixing things for mobiles
 		{
 			display: none;
 		}
-#content {
-    /* padding-bottom: 50px; */
-    height: 345px;
-}
+/*********************************************************************************/
+/* Rem's mobile fix for content Arrow                                            */
+/*********************************************************************************/
+	#content {
+    		/* padding-bottom: 50px; */
+   		 height: 345px;
+	}
