@@ -303,3 +303,11 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 		{
 			opacity: 0.5;
 		}
+		
+/*********************************************************************************/
+/* Rem's mobile fix for content Arrow                                            */
+/*********************************************************************************/
+	#content {
+    		/* padding-bottom: 50px; */
+   		 height: 345px;
+	}
