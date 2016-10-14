@@ -1,0 +1,12 @@
+/*
+spaghetti code by unbendablestraw. some code was used from html5 up, css3 please!, and ihatetomatoes!
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 16pt;
+	}
