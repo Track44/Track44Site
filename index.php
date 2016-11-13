@@ -252,7 +252,7 @@
 				
 		<p>
 			<a href="" title="hit counter">
-				<?php include "count.php"; ?>
+			Vistor Count: <?php include "count.php"; ?>
 			</a>
 		</p>
 		<p>
