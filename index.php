@@ -252,7 +252,7 @@
 				
 		<p>
 			<a href="" title="hit counter">
-				<img src="http://counter8.allfreecounter.com/private/freecounterstat.php?c=a9e51bdaec256bc85c28b359b6c3c676" border="0" title="hit counter" alt="hit counter">
+				<?php include "count.php"; ?>
 			</a>
 		</p>
 		<p>
