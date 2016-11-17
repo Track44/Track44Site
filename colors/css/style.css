@@ -844,7 +844,7 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 				.box.style2 header
 				{
 					display: inline-block;
-					background: #fff;
+					background: #36393e;
 					padding: 2em 3em 2em 3em;
 					margin: 0;
 				}
