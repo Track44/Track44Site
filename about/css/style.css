@@ -368,6 +368,8 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 			{
 				display: block;
 				width: 100%;
+				height: 10em;
+				object-fit: cover;
 			}
 
 			.image.featured
