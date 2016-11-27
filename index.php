@@ -261,7 +261,7 @@
 			</a>
 		</p>
 		<p>
-			<audio id="music" autoplay="true" loop="true" volume=0.2 controls>
+			<audio id="music" autoplay="true" loop="true" controls>
 			<source src="Track 44.mp3" type="audio/mpeg">
 			</audio>
 		</p>
