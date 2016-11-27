@@ -72,6 +72,7 @@
 						</header>
 					<p>Discord Server - <a href="http://discord.track44.moe">Copy or Click Me!</a></p>
 					<p>Steam Group - <a href="http://steamcommunity.com/groups/track44">Admin's World</a></p>
+					<p>Board44 - <a href="http://board44.org">Click here</a></p>
 					<p><a href="/about/">About the Track 44 Team</a></p>
 
 
@@ -102,7 +103,7 @@
 			<article class="container box style2">
 				<header>
 					<h2>Coming Soon!</h2>
-					<p>Arma II</p>
+					<p>Arma III</p>
 					<p>CS:GO</p>
 					<p>CS1.6</p>
 				</header>
@@ -164,7 +165,7 @@
 								<td>Goshujin</td>
 							</tr>
 							<tr>
-								<td>Maidnaut</td>
+								<td>Demiture</td>
 								<td>Korea Boi</td>
 								<td>TDRailgun</td>
 							</tr>
@@ -257,7 +258,7 @@
 		</p>
 		<p>
 			<audio controls>
-			<source src="Track 44.mp3" type="audio/mpeg">
+			<source src="Track 44.mp3" autoplay="true" loop="true" volume=20 type="audio/mpeg">
 			</audio>
 		</p>
 	</body>
