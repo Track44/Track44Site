@@ -13,6 +13,10 @@
 		<script src="js/jquery.poptrox.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
+		<script>
+		var song = document.getElementById("music"); 
+			song.volume = 1.0;
+		</script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -257,7 +261,7 @@
 			</a>
 		</p>
 		<p>
-			<audio autoplay="true" loop="true" volume=0.2 controls>
+			<audio id="music" autoplay="true" loop="true" controls>
 			<source src="Track 44.mp3" type="audio/mpeg">
 			</audio>
 		</p>
