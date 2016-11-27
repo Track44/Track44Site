@@ -257,8 +257,8 @@
 			</a>
 		</p>
 		<p>
-			<audio controls>
-			<source src="Track 44.mp3" autoplay="true" loop="true" volume=20 type="audio/mpeg">
+			<audio autoplay="true" loop="true" volume=20 controls>
+			<source src="Track 44.mp3" type="audio/mpeg">
 			</audio>
 		</p>
 	</body>
