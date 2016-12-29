@@ -119,6 +119,15 @@
 		    </header> -->
 
 		<!-- Portfolio	-->
+		<!--VIP Contributors -->
+
+
+			<article class="container box style2">
+				<header>
+					<h2>VIP Contributors</h2>
+					<p>Cake - Runs the <a href="https://discord.gg/HmqAjTm">DiscordBeats Music server</a>, and <a href="http://cakebot.club/">Cakebot</a> in Track 44!</p>
+				</header>
+			</article>
 
 	
 		<!-- Contributors -->
@@ -253,7 +262,7 @@
 				
 		<p>
 			<a href="" title="hit counter">
-			Vistor Count: <?php include "count.php"; ?>
+			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
 		</p>
 		<p>
