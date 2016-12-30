@@ -195,6 +195,7 @@
 							<tr>
 								<td>Tecno Jellyfish</td>
 								<td>Based Sadlord Sokage</td>
+								<td><td>Tipper</td>
 							</tr>
 						</tbody>
 					</table>
