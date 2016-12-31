@@ -188,14 +188,10 @@
 								<td>TheEliteKing</td>
 								<td>Embarrassing</td>
 							</tr>
-						</tbody>
-					</table>
-					<table>
-						<tbody>
 							<tr>
 								<td>Tecno Jellyfish</td>
 								<td>Based Sadlord Sokage</td>
-								<td><td>Tipper</td>
+								<td>Tipper</td>
 							</tr>
 						</tbody>
 					</table>
