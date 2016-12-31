@@ -191,6 +191,9 @@
 							<tr>
 								<td>Tecno Jellyfish</td>
 								<td>Based Sadlord Sokage</td>
+								<td>MyNameIsArando</td>
+							</tr>
+							<tr>
 								<td>Tipper</td>
 							</tr>
 						</tbody>
@@ -261,6 +264,9 @@
 			<a href="" title="hit counter">
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
+		</p>
+	        <p>
+		    <iframe width="1280" height="720" src="https://www.youtube.com/embed/96Mbt36ayZ8?list=LLvUUlKPO1EHc_Gw76Sd8LTQ" frameborder="0" allowfullscreen></iframe>
 		</p>
 		<p>
 			<audio id="music" controls>
