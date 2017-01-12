@@ -340,6 +340,13 @@ body:not(.loaded) > *:not(#loader-wrapper) {
     z-index: 100;
   }
 
+/* Low-key not sure this is needed but oh well */
+  #navbar .is-scroll
+  {
+    background-attachment:	scroll,								scroll;
+    background-size:		auto,								100% auto;
+  }
+
 	/* Sections/Article */
 
 		section,

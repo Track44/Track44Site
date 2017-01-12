@@ -34,12 +34,11 @@
 
 		<div class="bar" id="navbar">
 			<div class="insidebar">
-				<a href=#banner>Connect</a>
-				<a href=#community>Community</a>
-				<a href=#first>Game Servers</a>
-				<a href=#contributors>Contributors</a>
-				<a href=#t44hq>T44 HQ</a>
-				<a href=#admin>Who am I?</a>
+				<a href="#banner" class="scrolly-middle">Connect</a>
+				<a href="#community" class="scrolly-middle">Community</a>
+				<a href="#first" class="scrolly-middle">Game Servers</a>
+				<a href="#contributors" class="scrolly-middle">Contributors</a>
+				<a href="#t44hq" class="scrolly-middle">T44 HQ</a>
 			</div>
 		</div>
 
@@ -237,7 +236,7 @@
 
 
 		<!-- Portfolio -->
-		<article id="admin" class="container box style2">
+		<article class="container box style2">
 			<header>
 				<h2>Who am I?</h2>
 				<p></p>
