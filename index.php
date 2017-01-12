@@ -263,7 +263,7 @@
 	        <p>
 		    <center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
-			    		<p style="font-family:courier; font-size:60%;">Cursed Image &copy; Maria 2017</p>
+			    		<p style="font-family:courier; font-size:60%; color: white;">Cursed Image &copy; Maria 2017</p>
 			</center>
 		</p>
 		<p>
