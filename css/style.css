@@ -740,6 +740,20 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 					background: rgba(58,57,57,0.025);
 				}
 
+        input[type="button"].style4,
+  		  input[type="submit"].style4,
+  		  input[type="reset"].style4,
+        .button.style4
+        {
+          padding: 2px 8px;
+          text-align: center;
+          color: white;
+          background-color: #212121;
+          display: inline-block;
+          font-size: 16px;
+          font-family: "Source Sans Pro", Helvetica, sans-serif;
+        }
+
 	/* Box */
 
 		.box
