@@ -753,6 +753,14 @@ body:not(.loaded) > *:not(#loader-wrapper) {
           font-size: 16px;
           font-family: "Source Sans Pro", Helvetica, sans-serif;
         }
+        input[type="button"].style4:hover,
+  		  input[type="submit"].style4:hover,
+  		  input[type="reset"].style4:hover,
+        .button.style4:hover
+        {
+          background-color: #4CAF50;
+          color: white;
+        }
 
 	/* Box */
 
