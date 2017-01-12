@@ -42,6 +42,7 @@
 				||
 				<a href="/about/" class="button style4">About Us</a>
 				<a href="/mail/" class="button style4">Mail</a>
+				<a href="/color/" class="button style4">Colors</a>
 			</div>
 		</div>
 
