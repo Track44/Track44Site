@@ -263,7 +263,6 @@
 	        <p>
 		    <center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/96Mbt36ayZ8" frameborder="0" allowfullscreen></iframe>
 				</center>
 		</p>
 		<p>
