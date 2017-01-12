@@ -39,6 +39,9 @@
 				<a href="#first" class="button style4 scrolly-middle">Game Servers</a>
 				<a href="#contributors" class="button style4 scrolly-middle">Contributors</a>
 				<a href="#t44hq" class="button style4 scrolly-middle">T44 HQ</a>
+				||
+				<a href="/about/" class="button style4">About Us</a>
+				<a href="/mail/" class="button style4">Mail</a>
 			</div>
 		</div>
 
