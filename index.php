@@ -34,9 +34,9 @@
 
 		<div class="bar" id="navbar">
 			<div class="insidebar">
-				<a href=#connected>Connect</a>
+				<a href=#banner>Connect</a>
 				<a href=#community>Community</a>
-				<a href=#games>Game Servers</a>
+				<a href=#first>Game Servers</a>
 				<a href=#contributors>Contributors</a>
 				<a href=#t44hq>T44 HQ</a>
 				<a href=#admin>Who am I?</a>
@@ -75,7 +75,7 @@
 			</section>
 
 		<!-- Community -->
-			<article class="container box style1 left">
+			<article id="community" class="container box style1 left">
 				<a href="#" class="image fit"><img src="images/pic01.gif" alt="" /></a>
 				<div class="inner">
 					<header>
@@ -136,7 +136,7 @@
 
 
 		<!-- Contributors -->
-			<article class="container box style2">
+			<article id="contributors" class="container box style2">
 				<header>
 					<table  style="margin-bottom: 0;">
 						<tbody>
@@ -208,7 +208,7 @@
 			</article>
 		<!-- Portfolio	-->
 
-		<article class="container box style2" style="margin-top: 8.5em;">
+		<article id="t44hq" class="container box style2" style="margin-top: 8.5em;">
 			<header>
 				<h2>Track 44 HQ (2015)</h2>
 			</header>
@@ -237,7 +237,7 @@
 
 
 		<!-- Portfolio -->
-		<article class="container box style2">
+		<article id="admin" class="container box style2">
 			<header>
 				<h2>Who am I?</h2>
 				<p></p>

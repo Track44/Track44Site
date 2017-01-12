@@ -332,9 +332,12 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 
   .bar
   {
+    position: fixed;
+    width: 100%;
     background-color: #212121;
     padding-top: 5px;
     padding-bottom: 5px;
+    z-index: 100;
   }
 
 	/* Sections/Article */
