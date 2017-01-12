@@ -263,8 +263,9 @@
 	        <p>
 		    <center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
-			    		<p style="font-family:courier; font-size:60%; color: white;">Cursed Image &copy; Maria 2017</p>
-			</center>
+					<p style="font-family:courier; font-size:60%;">Cursed Image &copy; Maria 2017</p>
+					<iframe width="1280" height="720" src="https://www.youtube.com/embed/96Mbt36ayZ8" frameborder="0" allowfullscreen></iframe>
+				</center>
 		</p>
 		<p>
 			<audio id="music" controls>
