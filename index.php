@@ -32,6 +32,17 @@
 
 	<body class="is-loading">
 
+		<div class="bar" id="navbar">
+			<div class="insidebar">
+				<a href=#connected>Connect</a>
+				<a href=#community>Community</a>
+				<a href=#games>Game Servers</a>
+				<a href=#contributors>Contributors</a>
+				<a href=#t44hq>T44 HQ</a>
+				<a href=#admin>Who am I?</a>
+			</div>
+		</div>
+
 		<!-- Header -->
 
 		<div id="loader-wrapper">

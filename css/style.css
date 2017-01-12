@@ -9,7 +9,7 @@
    ========================================================================== */
 
 body:not(.loaded) > *:not(#loader-wrapper) {
-  display: none !important;  
+  display: none !important;
 }
 
 #loader-wrapper {
@@ -67,7 +67,7 @@ body:not(.loaded) > *:not(#loader-wrapper) {
         -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
           animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
     }
-    
+
  br {
   content: " ";
   display: block;
@@ -329,6 +329,13 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 	{
 		clear: both;
 	}
+
+  .bar
+  {
+    background-color: #212121;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
 
 	/* Sections/Article */
 
