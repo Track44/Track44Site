@@ -51,7 +51,7 @@
 		<div id="loader-wrapper">
 			<div id="loader"></div>
 			<div class="loader-section section-left"></div>
-         		<div class="loader-section section-right"></div>
+			<div class="loader-section section-right"></div>
 		</div>
 
 		<div id="content">
@@ -247,9 +247,9 @@
 				<p>I'm UnbendableStraw (or "admin") and I help manage the community and keep everything running!</p>
 			</header>
 
-		   <!-- Social Links -->
-		    <article class="container box style2" style="margin-top: 9em;">
-		    	<header>
+		<!-- Social Links -->
+		<article class="container box style2" style="margin-top: 9em;">
+			<header>
 				Find Me Online or Donate Below!
 			</header>
 
@@ -274,11 +274,10 @@
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
 		</p>
-	        <p>
-		    <center>
+		<p>
+			<center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
 					<p style="font-family:courier; font-size:60%;">Cursed Image &copy; Maria 2017</p>
-					<iframe width="1280" height="720" src="https://www.youtube.com/embed/96Mbt36ayZ8" frameborder="0" allowfullscreen></iframe>
 				</center>
 		</p>
 		<p>
