@@ -19,21 +19,21 @@
 		</noscript>
 		<!-- [if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif] -->
 	</head>
-	
+
 	<style>
 		body:not(.loaded) {
 			background-color: #2E413F;
 		}
-		
+
 		body:not(.loaded) > *:not(#loader-wrapper) {
 			display: none !important;
 		}
 	</style>
-	
+
 	<body class="is-loading">
 
 		<!-- Header -->
-		
+
 		<div id="loader-wrapper">
 			<div id="loader"></div>
 			<div class="loader-section section-left"></div>
@@ -96,7 +96,7 @@
 					<br style="margin:0.1em;"> OR <br style="margin:0.1em;">Search Track 44 under Sandbox gamemode!</p>
 				</div>
 			</article>
-			
+
 		<!-- Coming Soon -->
 
 
@@ -123,7 +123,7 @@
 
 
 
-	
+
 		<!-- Contributors -->
 			<article class="container box style2">
 				<header>
@@ -188,6 +188,7 @@
 								<td>MyNameIsArando</td>
 							</tr>
 							<tr>
+								<td />
 								<td>Tipper</td>
 							</tr>
 						</tbody>
@@ -195,7 +196,7 @@
 				</header>
 			</article>
 		<!-- Portfolio	-->
-		
+
 		<article class="container box style2" style="margin-top: 8.5em;">
 			<header>
 				<h2>Track 44 HQ (2015)</h2>
@@ -222,28 +223,28 @@
 					<p><a href="http://imgur.com/a/jXbf0">See More Here (in HD!)</a></p>
 				</header>
 			</article>
-		
-				
+
+
 		<!-- Portfolio -->
 		<article class="container box style2">
 			<header>
 				<h2>Who am I?</h2>
 				<p></p>
 				<p>I'm UnbendableStraw (or "admin") and I help manage the community and keep everything running!</p>
-			</header> 
-				
-		   <!-- Social Links -->  
+			</header>
+
+		   <!-- Social Links -->
 		    <article class="container box style2" style="margin-top: 9em;">
 		    	<header>
 				Find Me Online or Donate Below!
 			</header>
-			
+
 			<section id="footer">
 				<ul class="icons">
 					<li><a href="https://www.twitter.com/unbendablestraw" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="http://steamcommunity.com/id/unbendablestraw" class="icon fa-steam"><span class="label">Steam</span></a></li>
 					<li><a href="https://www.vine.co/adwinistrator" class="icon fa-vine"><span class="label">Vine</span></a></li>
-					<li><a href="https://www.youtube.com/hippiegeeks" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
+					<li><a href="https://youtube.track44.moe" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
 					<li><a href="https://www.twitch.tv/unbendablestraw" class="icon fa-twitch"><span class="label">Twitch</span></a></li>
 					<li><a href="https://github.com/track44" class="icon fa-github"><span class="label">GitHub</span></a></li>
 					<li><a href="https://www.patreon.com/track44" class="icon fa-dollar"><span class="label">Dollar</span></a></li>
@@ -253,7 +254,7 @@
 			<!-- Why was there a close div tag here ¯\_(ツ)_/¯ -->
 			<iframe src="https://discordapp.com/widget?id=188556676121624577&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 		</section>
-				
+
 		<p>
 			<a href="" title="hit counter">
 			Vistor Count: <?php include "/var/www/count.php"; ?>
