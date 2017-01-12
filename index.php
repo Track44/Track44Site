@@ -32,12 +32,26 @@
 
 	<body class="is-loading">
 
+		<div class="bar" id="navbar">
+			<div class="insidebar">
+				<a href="#banner" class="button style4 scrolly-middle">Connect</a>
+				<a href="#community" class="button style4 scrolly-middle">Community</a>
+				<a href="#first" class="button style4 scrolly-middle">Game Servers</a>
+				<a href="#contributors" class="button style4 scrolly-middle">Contributors</a>
+				<a href="#t44hq" class="button style4 scrolly-middle">T44 HQ</a>
+				||
+				<a href="/about/" class="button style4">About Us</a>
+				<a href="/mail/" class="button style4">Mail</a>
+				<a href="/color/" class="button style4">Colors</a>
+			</div>
+		</div>
+
 		<!-- Header -->
 
 		<div id="loader-wrapper">
 			<div id="loader"></div>
 			<div class="loader-section section-left"></div>
-         		<div class="loader-section section-right"></div>
+			<div class="loader-section section-right"></div>
 		</div>
 
 		<div id="content">
@@ -64,7 +78,7 @@
 			</section>
 
 		<!-- Community -->
-			<article class="container box style1 left">
+			<article id="community" class="container box style1 left">
 				<a href="#" class="image fit"><img src="images/pic01.gif" alt="" /></a>
 				<div class="inner">
 					<header>
@@ -125,7 +139,7 @@
 
 
 		<!-- Contributors -->
-			<article class="container box style2">
+			<article id="contributors" class="container box style2">
 				<header>
 					<table  style="margin-bottom: 0;">
 						<tbody>
@@ -197,7 +211,7 @@
 			</article>
 		<!-- Portfolio	-->
 
-		<article class="container box style2" style="margin-top: 8.5em;">
+		<article id="t44hq" class="container box style2" style="margin-top: 8.5em;">
 			<header>
 				<h2>Track 44 HQ (2015)</h2>
 			</header>
@@ -233,9 +247,9 @@
 				<p>I'm UnbendableStraw (or "admin") and I help manage the community and keep everything running!</p>
 			</header>
 
-		   <!-- Social Links -->
-		    <article class="container box style2" style="margin-top: 9em;">
-		    	<header>
+		<!-- Social Links -->
+		<article class="container box style2" style="margin-top: 9em;">
+			<header>
 				Find Me Online or Donate Below!
 			</header>
 
@@ -260,11 +274,11 @@
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
 		</p>
-	        <p>
-		    <center>
+		<p>
+			<center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
-			    		<p style="font-family:courier; font-size:60%; color: white;">Cursed Image &copy; Maria 2017</p>
-			</center>
+					<p style="font-family:courier; font-size:60%;">Cursed Image &copy; Maria 2017</p>
+				</center>
 		</p>
 		<p>
 			<audio id="music" controls>
