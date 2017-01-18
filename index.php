@@ -3,7 +3,7 @@
 <!-- Someone mention Fearn so I can find out if people ever read the commit logs -->
 <html>
 	<head>
-		<title>Track 44</title>
+		<title>Sellout 44</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -59,9 +59,10 @@
 				<header>
 					<h1>Welcome</h1>
 					<p>To Track 44</p>
+					<p>(Sponsored by ezgif.com)</p>
 				</header>
 				<footer style="bottom: 6em;">
-					<a href="#banner" class="button style2 scrolly-middle">Connect to the Wired</a>
+					<a href="#banner" class="button style2 scrolly-middle">Connect to the .gif</a>
 				</footer>
 			</section>
 		</div>
@@ -73,21 +74,22 @@
 				</header>
 				<p class="white">Track 44 is the beginning of an open community for everyone.<br />
 				We organize group gaming, giveaways, karaoke, streams, and just chill together.<br />
-				Here, you will find info on how to connect with us!</a></p>
+				Here, you will find info on how to connect with us!<br />
+			  (Also please check out our sponsors at <strong>ezgif.com</strong>)</a></p>
 
 			</section>
 
 		<!-- Community -->
 			<article id="community" class="container box style1 left">
-				<a href="#" class="image fit"><img src="images/pic01.gif" alt="" /></a>
+				<a href="#" class="image fit"><img src="images/ezgif.png" alt="" /></a>
 				<div class="inner">
 					<header>
-						<h2>Join the Track 44 Community!</h2>
+						<h2>Sponsored by <strong>ezgif.com</strong></h2>
 						</header>
-					<p>Discord Server - <a href="http://discord.track44.moe">Copy or Click Me!</a></p>
-					<p>Steam Group - <a href="http://steamcommunity.com/groups/track44">Admin's World</a></p>
-					<p>Board44 - <a href="http://board44.org">Click here</a></p>
-					<p><a href="/about/">About the Track 44 Team</a></p>
+					<p>Be sure to check out our sponsor, <a href="http://ezgif.com" target="blank">http://ezgif.com/</a></p>
+					<p>Make Gifs, Crop gifs, Resize gifs, convert videos to gifs, Add cool speicial effects to gifs.</p>
+					<p>And <strong>much more!</strong></p>
+					<p>Animated gifs have never been better! <strong>Start now</strong> at <a href="http://ezgif.com" target="blank">http://ezgif.com</a></p>
 
 
 
@@ -98,16 +100,15 @@
 
 		<!-- List Game Servers -->
 			<article id="first" class="container box style1 right">
-				<a href="#" class="image fit"><img src="images/pic02.gif"></a>
+				<a href="#" class="image fit"><img src="images/sponsor.png"></a>
 				<div class="inner">
 					<header>
 					</header>
-					<h2>Play Some Games With Us!</h2>
+					<h2>Sponsor us!</h2>
 					<br style="margin: 0.5em;">
-					<p>Team Fortress 2 - tf2.track44.moe
-					<p>Minecraft - <a href="http://mc.track44.moe">mc.track44.moe</a></p>
-					<p>Garry's Mod - gmod.track44.moe
-					<br style="margin:0.1em;"> OR <br style="margin:0.1em;">Search Track 44 under Sandbox gamemode!</p>
+					<p>We are always looking for new ways to sellout!</p>
+					<p>Please sponsor us using the link below!</p>
+					<p><a href="sponsor.txt" target="blank">click here!</a></p>
 				</div>
 			</article>
 
@@ -117,9 +118,9 @@
 			<article class="container box style2">
 				<header>
 					<h2>Coming Soon!</h2>
-					<p>Arma III</p>
-					<p>CS:GO</p>
-					<p>CS1.6</p>
+					<p>http//gifmaker.me</p>
+					<p>http//giphy.com/</p>
+					<p>http//gifcreator.me/</p>
 				</header>
 			</article>
 
@@ -244,13 +245,13 @@
 			<header>
 				<h2>Who am I?</h2>
 				<p></p>
-				<p>I'm UnbendableStraw (or "admin") and I help manage the community and keep everything running!</p>
+				<p>I'm UnbendableStraw (or "sellout") and I help manage the community and keep everything running!</p>
 			</header>
 
 		<!-- Social Links -->
 		<article class="container box style2" style="margin-top: 9em;">
 			<header>
-				Find Me Online or Donate Below!
+				Find Me Online or Sponsor Below!
 			</header>
 
 			<section id="footer">
