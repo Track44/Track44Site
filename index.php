@@ -159,61 +159,63 @@
 							<tr>
 								<td>Trev</td>
 								<td>Days</td>
-								<td>Lumi</td>
+								<td>Noxy</td>
 							</tr>
 							<tr>
 								<td>Sleep</td>
 								<td>Ghim</td>
-								<td>eMiko</td>
+								<td>Lumi</td>
 							</tr>
 							<tr>
 								<td>Angel</td>
 								<td>Miako</td>
-								<td>Austin</td>
+								<td>eMiko</td>
 							</tr>
 							<tr>
 								<td>Brander</td>
 								<td>Brando</td>
-								<td>Satoshi</td>
+								<td>Austin</td>
 							</tr>
 							<tr>
 								<td>D Money</td>
-								<td>Sir Caet</td>
-								<td>Booven</td>
+								<td>Tipper</td>
+								<td>Satoshi</td>
 							</tr>
 							<tr>
 								<td>fearnlj01</td>
-								<td>TSMALL96</td>
-								<td>Goshujin</td>
+								<td>Kneesox</td>
+								<td>Booven</td>
 							</tr>
 							<tr>
 								<td>Demiture</td>
-								<td>Korea Boi</td>
-								<td>TDRailgun</td>
+								<td>Sir Caet</td>
+								<td>Goshujin</td>
 							</tr>
 							<tr>
 								<td>HamleHDK</td>
-								<td>Camo Yoshi</td>
+								<td>TSMALL96</td>
+								<td>TDRailgun</td>
+							</tr>
+							<tr>
+								<td>KyleScarce</td>
+								<td>Korea Boi</td>
 								<td>poncethecat</td>
 							</tr>
 							<tr>
 								<td>TheRyDesigns</td>
-								<td>TheEliteKing</td>
+								<td>Camo Yoshi</td>
 								<td>Embarrassing</td>
 							</tr>
 							<tr>
 								<td>Tecno Jellyfish</td>
-								<td>Based Sadlord Sokage</td>
+								<td>TheEliteKing</td>
 								<td>MyNameIsArando</td>
 							</tr>
 							<tr>
-								<td>KyleScarce</td>
-								<td>Tipper</td>
-								<td>Noxy</td>
-							</tr>
-							<tr>
 								<td />
-								<td>Kneesox</td>
+								<td>Based Sadlord Sokage</td>
+								<td />
+							</tr>
 						</tbody>
 					</table>
 				</header>
