@@ -207,9 +207,13 @@
 								<td>MyNameIsArando</td>
 							</tr>
 							<tr>
-								<td />
+								<td>KyleScarce</td>
 								<td>Tipper</td>
+								<td>Noxy</td>
 							</tr>
+							<tr>
+								<td />
+								<td>Kneesox</td>
 						</tbody>
 					</table>
 				</header>
