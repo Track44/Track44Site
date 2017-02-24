@@ -286,7 +286,7 @@
 		</section>
 
 		<p>
-			<a href="" title="hit counter">
+			<a title="hit counter">
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
 		</p>
