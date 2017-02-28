@@ -98,7 +98,7 @@
 
 		<!-- List Game Servers -->
 			<article id="first" class="container box style1 right">
-				<a href="#" class="image fit"><img src="images/pic02.gif"></a>
+				<a href="https://www.youtube.com/watch?v=96Mbt36ayZ8" class="image fit" target="blank"><img src="images/pic02.gif"></a>
 				<div class="inner">
 					<header>
 					</header>
@@ -120,6 +120,10 @@
 					<p>Arma III</p>
 					<p>CS:GO</p>
 					<p>CS1.6</p>
+					<a href="videos/notfunnytbh.mp4" target="blank">
+						<div style="padding: 10px 10px;">
+						</div>
+					</a>
 				</header>
 			</article>
 
@@ -286,7 +290,7 @@
 		</section>
 
 		<p>
-			<a href="" title="hit counter">
+			<a title="hit counter">
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
 		</p>
