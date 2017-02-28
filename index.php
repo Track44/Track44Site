@@ -84,7 +84,7 @@
 					<header>
 						<h2>Join the Track 44 Community!</h2>
 						</header>
-					<p>Discord Server - <a href="http://discord.track44.moe">Copy or Click Me!</a></p>
+					<p>Discord Server - <a href="http://discord.gg.track44">Copy or Click Me!</a></p>
 					<p>Steam Group - <a href="http://steamcommunity.com/groups/track44">Admin's World</a></p>
 					<p>Board44 - <a href="http://board44.org">Click here</a></p>
 					<p><a href="/about/">About the Track 44 Team</a></p>
