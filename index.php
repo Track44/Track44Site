@@ -98,7 +98,7 @@
 
 		<!-- List Game Servers -->
 			<article id="first" class="container box style1 right">
-				<a href="#" class="image fit"><img src="images/pic02.gif"></a>
+				<a href="https://www.youtube.com/watch?v=96Mbt36ayZ8" class="image fit" target="blank"><img src="images/pic02.gif"></a>
 				<div class="inner">
 					<header>
 					</header>
