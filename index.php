@@ -172,59 +172,64 @@
 								<td>Noxy</td>
 							</tr>
 							<tr>
-								<td>Sleep</td>
+								<td>Laser</td>
 								<td>Miako</td>
 								<td>eMiko</td>
 							</tr>
 							<tr>
-								<td>Angel</td>
+								<td>Sleep</td>
 								<td>Brando</td>
 								<td>Austin</td>
 							</tr>
 							<tr>
-								<td>Deftsu</td>
+								<td>Angel</td>
 								<td>Spacey</td>
 								<td>Booven</td>
 							</tr>
 							<tr>
-								<td>Brander</td>
+								<td>Deftsu</td>
 								<td>Tipper</td>
 								<td>raeyan</td>
 							</tr>
 							<tr>
-								<td>D Money</td>
+								<td>Brander</td>
 								<td>Kneesox</td>
 								<td>DIZIACE</td>
 							</tr>
 							<tr>
-								<td>fearnlj01</td>
+								<td>D Money</td>
 								<td>Sir Caet</td>
 								<td>Satoshi</td>
 							</tr>
 							<tr>
-								<td>Demiture</td>
+								<td>fearnlj01</td>
 								<td>TSMALL96</td>
 								<td>Goshujin</td>
 							</tr>
 							<tr>
-								<td>TDRailgun</td>
+								<td>Demiture</td>
 								<td>Korea Boi</td>
 								<td>poncethecat</td>
 							</tr>
 							<tr>
-								<td>KyleScarce</td>
-								<td>Camo Yoshi</td>
+								<td>TDRailgun</td>
+								<td>PeachRift</td>
 								<td>HamleHDK</td>
+							</tr>
+							<tr>
+								<td>Kyle Scarce</td>
+								<td>Camo Yoshi</td>
+								<td>Embarrassing</td>
 							</tr>
 							<tr>
 								<td>TheRyDesigns</td>
 								<td>TheEliteKing</td>
-								<td>Embarrassing</td>
+								<td>MyNameIsArando</td>
 							</tr>
 							<tr>
 								<td>Tecno Jellyfish</td>
 								<td>Based Sadlord Sokage</td>
-								<td>MyNameIsArando</td>
+								<td />
 							</tr>
 						</tbody>
 					</table>
