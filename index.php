@@ -167,22 +167,22 @@
 								<td>Lumi</td>
 							</tr>
 							<tr>
-								<td>Celly</td>
+								<td>Angel</td>
 								<td>Ghim</td>
 								<td>Noxy</td>
 							</tr>
 							<tr>
-								<td>Laser</td>
+								<td>Celly</td>
 								<td>Miako</td>
 								<td>eMiko</td>
 							</tr>
 							<tr>
-								<td>Sleep</td>
+								<td>Laser</td>
 								<td>Brando</td>
 								<td>Austin</td>
 							</tr>
 							<tr>
-								<td>Angel</td>
+								<td>Sleep</td>
 								<td>Spacey</td>
 								<td>Booven</td>
 							</tr>
@@ -202,19 +202,19 @@
 								<td>Satoshi</td>
 							</tr>
 							<tr>
-								<td>fearnlj01</td>
+								<td>Demiture</td>
 								<td>TSMALL96</td>
 								<td>Goshujin</td>
 							</tr>
 							<tr>
-								<td>Demiture</td>
+								<td>fearnlj01</td>
 								<td>Korea Boi</td>
-								<td>poncethecat</td>
+								<td>HamleHDK</td>
 							</tr>
 							<tr>
 								<td>TDRailgun</td>
 								<td>PeachRift</td>
-								<td>HamleHDK</td>
+								<td>poncethecat</td>
 							</tr>
 							<tr>
 								<td>Kyle Scarce</td>
