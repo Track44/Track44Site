@@ -143,6 +143,7 @@
 				<header>
 					<h2>VIP Contributors</h2>
 					<p>Cake - Runs the <a href="https://discord.gg/HmqAjTm">DiscordBeats Music server</a>, and <a href="http://cakebot.club/">Cakebot</a> in Track 44!</p>
+					<p>Skandha! <a href="https://twitter.com/JustSkandha">https://twitter.com/JustSkandha</a></p>
 				</header>
 			</article>
 
