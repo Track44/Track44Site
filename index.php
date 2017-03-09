@@ -31,7 +31,7 @@
 	</style>
 
 	<body class="is-loading">
-
+		<!-- Demi please fix this damn Navbar for mobile smh -->
 		<div class="bar" id="navbar">
 			<div class="insidebar">
 				<a href="#banner" class="button style4 scrolly-middle">Connect</a>
@@ -84,7 +84,7 @@
 					<header>
 						<h2>Join the Track 44 Community!</h2>
 						</header>
-					<p>Discord Server - <a href="http://discord.gg.track44">Copy or Click Me!</a></p>
+					<p>Discord Server - <a href="http://discord.gg/track44">Copy or Click Me!</a></p>
 					<p>Steam Group - <a href="http://steamcommunity.com/groups/track44">Admin's World</a></p>
 					<p>Board44 - <a href="http://board44.org">Click here</a></p>
 					<p><a href="/about/">About the Track 44 Team</a></p>
@@ -167,22 +167,22 @@
 								<td>Lumi</td>
 							</tr>
 							<tr>
-								<td>Celly</td>
+								<td>Angel</td>
 								<td>Ghim</td>
 								<td>Noxy</td>
 							</tr>
 							<tr>
-								<td>Laser</td>
+								<td>Celly</td>
 								<td>Miako</td>
 								<td>eMiko</td>
 							</tr>
 							<tr>
-								<td>Sleep</td>
+								<td>Laser</td>
 								<td>Brando</td>
 								<td>Austin</td>
 							</tr>
 							<tr>
-								<td>Angel</td>
+								<td>Sleep</td>
 								<td>Spacey</td>
 								<td>Booven</td>
 							</tr>
@@ -202,19 +202,19 @@
 								<td>Satoshi</td>
 							</tr>
 							<tr>
-								<td>fearnlj01</td>
+								<td>Demiture</td>
 								<td>TSMALL96</td>
 								<td>Goshujin</td>
 							</tr>
 							<tr>
-								<td>Demiture</td>
+								<td>fearnlj01</td>
 								<td>Korea Boi</td>
-								<td>poncethecat</td>
+								<td>HamleHDK</td>
 							</tr>
 							<tr>
 								<td>TDRailgun</td>
 								<td>PeachRift</td>
-								<td>HamleHDK</td>
+								<td>poncethecat</td>
 							</tr>
 							<tr>
 								<td>Kyle Scarce</td>
