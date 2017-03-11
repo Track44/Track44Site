@@ -137,28 +137,6 @@
 				</header>
 			</article>
 
-		<!-- Coming Soon -->
-
-
-		<article class="container box style2" id="Mishiki">
-			<header>
-				<div class="3u" style="float: left;margin-right: 2%;">
-					<a href="images/portfolio/mishiki.jpg" class="image fit">
-						<img src="images/portfolio/mishiki.jpg" alt="Mishiki" title="Mishiki">
-					</a>
-				</div>
-				<div>
-					<h2>Mishiki</h2>
-					<p>Mishiki helps test the hosted servers before changes are made public. He also maintains the Team Fortress 2 server, and moderates the discord server, as well as getting people to join the Minecraft and Garry's Mod servers.</p>
-				</div>
-			</header>
-		</article>
-
-		<p>
-			<a title="hit counter">
-			Vistor Count: <?php include "/var/www/count.php"; ?>
-			</a>
-		</p>
 		<p>
 			<center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
