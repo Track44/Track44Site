@@ -14,6 +14,8 @@ body:not(.loaded) > *:not(#loader-wrapper) {
 
 ul.listclass li {
   list-style-type:disc!important;
+  margin-left:15px;
+
 }
 
 #loader-wrapper {
