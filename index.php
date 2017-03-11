@@ -39,12 +39,23 @@
 				<a href="#first" class="button style4 scrolly-middle">Game Servers</a>
 				<a href="#contributors" class="button style4 scrolly-middle">Contributors</a>
 				<a href="#t44hq" class="button style4 scrolly-middle">T44 HQ</a>
-				||
+				 || 
 				<a href="/about/" class="button style4">About Us</a>
 				<a href="/mail/" class="button style4">Mail</a>
 				<a href="/colors/" class="button style4">Colors</a>
+				<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
 			</div>
 		</div>
+		<script>
+			function myFunction() {
+    		var x = document.getElementById("navbar");
+    		if (x.className === "bar") {
+        	x.className += " responsive";
+    		} else {
+        	x.className = "bar";
+    		}
+			}
+		</script>
 
 		<!-- Header -->
 
