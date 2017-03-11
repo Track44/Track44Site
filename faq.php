@@ -77,35 +77,37 @@
 			<article class="container box style2">
 				<header>
 					<h2>Channel Descriptions</h2>
-					<p>-#welcome is the <b>safe for work</b> default channel that shows when you join. It outlines the basics.</p>
-					<p>-#faq Is the channel that has links to all the information, and to here.</p>
-					<p>-#announcements gives me my own soap box to shove my important crap into your brains. Please keep this channel unmuted, or you will miss out on giveaways, polls, upcoming events, and more!</p>
-					<p>-#greentext is the <b>safe for work</b> main chat. You must have the wired role to post attachments here. The wired role is quickly given to active users who don't cause any trouble.</p>
-					<p>-#shitpost is the <b>not safe for work</b> main chat. Server-wide rules apply here. <strike>~To gain access, say <b>.iam shitposter</b>~</strike></p>
-					<p>-#gaming is the <b>safe for work</b> channel to discuss anything gaming related.</p>
-					<p>-#original_content is a <b>questionably safe for work</b> place for our community members to share content they have created. Because anyone can share anything THEY make, some content may be explicit, so caution is advised. If you want to see this channel, say <b>.iam creative</b></p>
-					<p>-#music_discussion is a <b>safe for work</b> place to share good music, use the music bots, or just talk about music in general. Say <b>.iam music</b> to unhide this channel.</p>
-					<p>-#technology is a <b>safe for work</b> place to discuss anything tech related. From jailbreaking, mechanical keyboards, technical support, or anything that plugs into the wall or runs on batteries. Say <b>.iam technology</b> to unhide this channel.</p>
-					<p>-#automotive goes vroom vroom. <b>safe for work</b>. Say <b>.iam automotive to unhide this channel</b>.</p>
-					<p>-#anime goes "s-senpai?" in a <b>safe for work</b> fashion. Talk about your weeaboo garbage and mangos here. Say <b>.iam weeaboo</b> to unhide this channel.</p>
-					<p>-#2d_heaven_sfw is the <b>safe for work</b> place to share awesome anime art. Say <b>.iam 2d</b> to unhide this channel.</p>
-					<p>-#2d_heaven_nsfw is the <b>not safe for work</b> place to post booty and tiddy. Obviously, there is some very explicit content. Say <b>.iam lewd dude</b> to unhide this channel.</p>
-					<p>-#overwatch is a </b>safe for work</b> place to do anything overwatch related. People typically ask here to get groups together. Say <b>.iam overwatch</b> to unhide this channel.</p>
-					<p>-#league_of_legends is a <b>safe for work</b> place to get your league stuff together. Say <b>.iam league of legends</b> to unhide this channel.</p>
-					<p>-#counterstrike is also a <b>safe for work</b> place to brag about your gambling problem (and talk about csgo). Say <b>.iam counterstrike</b> to unhide this channel.</p>
-					<p>-#beauty_fashion_and_lifestyle is a <b>safe for work</b> place to share anything fitness, beauty, or fashion related. Say <b>.iam beautiful</b> to unhide this channel.</p>
-					<p>-#smonking because it's legal. <b>not safe for work.</b> Say <b>.iam high</b> to unhide this channel.</p>
-					<p>-#bot_commands <b>not safe for work</b> in case you feel bad for spamming #shitpost with 6,500 queue requests for "Ocean Man".</p>
-					<p>-#eggplants is for sharing screenshots of stupid things said on discord. <b>Potentially not safe for work so say .iam eggplanter to unhide</b> this channel.</p>
-					<p>-#the_admin_zone is a <b>safe for work</b> place for us admins to hide from the masses.</p>
-					<p>-#server_requests is a <b>safe for work</b> place to request for help or changes with/to the server.</p>
-					<p>-#server_logs is where the stuff that happens gets logged into eternity. <b>Potentially not safe for work</b> cause god knows what might get logged.</p>
-					<p>-#maintainers so we can fix stuff behind the scenes. </p>
-					<p>-#contributor_chat is a <b>safe for work</b> place for contributors to do whatever they want. Donate today to gain access!</p>
-					<p>-#literally_admins_only is my secret spot.</p>
-					<p>-#the_noob_tube is where new members are put until they read #welcome</p>
-					<p>-</p>
-					<p>-</p>
+				<ul>
+					<li><p>-#welcome is the <b>safe for work</b> default channel that shows when you join. It outlines the basics.</p></li>
+					<li><p>-#faq Is the channel that has links to all the information, and to here.</p></li>
+					<li><p>-#announcements gives me my own soap box to shove my important crap into your brains. Please keep this channel unmuted, or you will miss out on giveaways, polls, upcoming events, and more!</p></li>
+					<li><p>-#greentext is the <b>safe for work</b> main chat. You must have the wired role to post attachments here. The wired role is quickly given to active users who don't cause any trouble.</p></li>
+					<li><p>-#shitpost is the <b>not safe for work</b> main chat. Server-wide rules apply here. <strike>~To gain access, say <b>.iam shitposter</b>~</strike></p></li>
+					<li><p>-#gaming is the <b>safe for work</b> channel to discuss anything gaming related.</p></li>
+					<li><p>-#original_content is a <b>questionably safe for work</b> place for our community members to share content they have created. Because anyone can share anything THEY make, some content may be explicit, so caution is advised. If you want to see this channel, say <b>.iam creative</b></p></li>
+					<li><p>-#music_discussion is a <b>safe for work</b> place to share good music, use the music bots, or just talk about music in general. Say <b>.iam music</b> to unhide this channel.</p></li>
+					<li><p>-#technology is a <b>safe for work</b> place to discuss anything tech related. From jailbreaking, mechanical keyboards, technical support, or anything that plugs into the wall or runs on batteries. Say <b>.iam technology</b> to unhide this channel.</p></li>
+					<li><p>-#automotive goes vroom vroom. <b>safe for work</b>. Say <b>.iam automotive to unhide this channel</b>.</p></li>
+					<li><p>-#anime goes "s-senpai?" in a <b>safe for work</b> fashion. Talk about your weeaboo garbage and mangos here. Say <b>.iam weeaboo</b> to unhide this channel.</p></li>
+					<li><p>-#2d_heaven_sfw is the <b>safe for work</b> place to share awesome anime art. Say <b>.iam 2d</b> to unhide this channel.</p></li>
+					<li><p>-#2d_heaven_nsfw is the <b>not safe for work</b> place to post booty and tiddy. Obviously, there is some very explicit content. Say <b>.iam lewd dude</b> to unhide this channel.</p></li>
+					<li><p>-#overwatch is a </b>safe for work</b> place to do anything overwatch related. People typically ask here to get groups together. Say <b>.iam overwatch</b> to unhide this channel.</p></li>
+					<li><p>-#league_of_legends is a <b>safe for work</b> place to get your league stuff together. Say <b>.iam league of legends</b> to unhide this channel.</p></li>
+					<li><p>-#counterstrike is also a <b>safe for work</b> place to brag about your gambling problem (and talk about csgo). Say <b>.iam counterstrike</b> to unhide this channel.</p></li>
+					<li><p>-#beauty_fashion_and_lifestyle is a <b>safe for work</b> place to share anything fitness, beauty, or fashion related. Say <b>.iam beautiful</b> to unhide this channel.</p></li>
+					<li><p>-#smonking because it's legal. <b>not safe for work.</b> Say <b>.iam high</b> to unhide this channel.</p></li>
+					<li><p>-#bot_commands <b>not safe for work</b> in case you feel bad for spamming #shitpost with 6,500 queue requests for "Ocean Man".</p></li>
+					<li><p>-#eggplants is for sharing screenshots of stupid things said on discord. <b>Potentially not safe for work so say .iam eggplanter to unhide</b> this channel.</p></li>
+					<li><p>-#the_admin_zone is a <b>safe for work</b> place for us admins to hide from the masses.</p></li>
+					<li><p>-#server_requests is a <b>safe for work</b> place to request for help or changes with/to the server.</p></li>
+					<li><p>-#server_logs is where the stuff that happens gets logged into eternity. <b>Potentially not safe for work</b> cause god knows what might get logged.</p></li>
+					<li><p>-#maintainers so we can fix stuff behind the scenes. </p></li>
+					<li><p>-#contributor_chat is a <b>safe for work</b> place for contributors to do whatever they want. Donate today to gain access!</p></li>
+					<li><p>-#literally_admins_only is my secret spot.</p></li>
+					<li><p>-#the_noob_tube is where new members are put until they read #welcome</p></li>
+					<li><p>-advertising_and_promotion is a <b>safe for work</b> place to advertise and shill. You must have the <b>wired</b> role!</p></li>
+					<li><p>-</p></li>
+				</ul>
 					<a href="videos/notfunnytbh.mp4" target="blank">
 						<div style="padding: 10px 10px;">
 						</div>
