@@ -119,16 +119,16 @@
 				<header>
 					<h2>Voice Channel Descriptions</h2>
 				<ul>
-					<li><p>Admin.FM is a 24/7 music stream curated by myself and a few others. This is just a radio station, you can't queue your own stuff here.</p></li>
-					<li><p>Loud Zone General is for larger groups, or for being reasonably loud. If you are going to yell, scream, make funny noises, etc. then use the Loud Zone.</p></li>
-					<li><p>Chill Zone General is for any size group, but there is no yelling, screaming, mic spamming, anything whatsoever. Be chill in here.</p></li>
-					<li><p>smol General is for small crowds. No loud or quiet rules, go with the crowd.</p></li>
-					<li><p>Name Your Game #X is restricted to people with any of the self-assignable gaming roles. They are also user limited, so you don't have too many people joining.</p></li>
-					<li><p>Music is pretty much Lum's corner for DJ-ing. If you don't like what he's playing, there's other music channels and music bots for you.</p></li>
-					<li><p>Contributor Voice is restricted to contributors, duh. Contribute today to get access!</p></li>
-					<li><p>The Bakery.fm is CakeBot on autoplay, but you can control it.</p></li>
-					<li><p>BADmins timeout is if you misbehave</p></li>
-					<li><p>Sleepy Admins is if you go AFK</p></li>
+					<li><p style="text-align:left;">Admin.FM is a 24/7 music stream curated by myself and a few others. This is just a radio station, you can't queue your own stuff here.</p></li>
+					<li><p style="text-align:left;">Loud Zone General is for larger groups, or for being reasonably loud. If you are going to yell, scream, make funny noises, etc. then use the Loud Zone.</p></li>
+					<li><p style="text-align:left;">Chill Zone General is for any size group, but there is no yelling, screaming, mic spamming, anything whatsoever. Be chill in here.</p></li>
+					<li><p style="text-align:left;">smol General is for small crowds. No loud or quiet rules, go with the crowd.</p></li>
+					<li><p style="text-align:left;">Name Your Game #X is restricted to people with any of the self-assignable gaming roles. They are also user limited, so you don't have too many people joining.</p></li>
+					<li><p style="text-align:left;">Music is pretty much Lum's corner for DJ-ing. If you don't like what he's playing, there's other music channels and music bots for you.</p></li>
+					<li><p style="text-align:left;">Contributor Voice is restricted to contributors, duh. Contribute today to get access!</p></li>
+					<li><p style="text-align:left;">The Bakery.fm is CakeBot on autoplay, but you can control it.</p></li>
+					<li><p style="text-align:left;">BADmins timeout is if you misbehave</p></li>
+					<li><p style="text-align:left;">Sleepy Admins is if you go AFK</p></li>
 				</ul>
 					<a href="videos/notfunnytbh.mp4" target="blank">
 						<div style="padding: 10px 10px;">
