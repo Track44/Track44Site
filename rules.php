@@ -107,6 +107,7 @@
 					<p>-You are not allowed to mention anyone unless it is an individual who has given consent.</p>
 					<p>-You are not allowed to post the same thing more than once a day, be it a video, or stream, or server link. Multiple posts are allowed for *different* videos.</p>
 					<p>-Do not spam! Spamming is up to the admins to define in terms of frequency.</p>
+					<p>You must earn the <b>wired</b> role in order to post here. To earn the wired role, you simply have to be active in the server. You can ask for it.</p>
 					<p>-Everything posted must follow server-wide rules found at the top of this page, or in #faq</p>
 				</header>
 			</article>
