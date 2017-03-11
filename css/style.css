@@ -12,6 +12,10 @@ body:not(.loaded) > *:not(#loader-wrapper) {
   display: none !important;
 }
 
+ul.listclass li {
+  list-style-type:disc!important;
+}
+
 #loader-wrapper {
   position: fixed;
   top: 0;
