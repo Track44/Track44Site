@@ -118,7 +118,7 @@
 			<article class="container box style2">
 				<header>
 					<h2>Voice Channel Descriptions</h2>
-				<ul>
+				<ul class="listclass">
 					<li><p style="text-align:left;">Admin.FM is a 24/7 music stream curated by myself and a few others. This is just a radio station, you can't queue your own stuff here.</p></li>
 					<li><p style="text-align:left;">Loud Zone General is for larger groups, or for being reasonably loud. If you are going to yell, scream, make funny noises, etc. then use the Loud Zone.</p></li>
 					<li><p style="text-align:left;">Chill Zone General is for any size group, but there is no yelling, screaming, mic spamming, anything whatsoever. Be chill in here.</p></li>
