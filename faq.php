@@ -143,10 +143,6 @@
 					<p style="font-family:courier; font-size:60%;">Cursed Image &copy; Maria 2017</p>
 				</center>
 		</p>
-		<p>
-			<audio id="music" controls>
-			<source src="Track 44.mp3" type="audio/mpeg">
-			</audio>
-		</p>
+
 	</body>
 </html>
