@@ -31,7 +31,7 @@
 	</style>
 
 	<body class="is-loading">
-
+		<!-- Demi please fix this damn Navbar for mobile smh -->
 		<div class="bar" id="navbar">
 			<div class="insidebar">
 				<a href="#banner" class="button style4 scrolly-middle">Connect</a>
@@ -95,7 +95,7 @@
 					<header>
 						<h2>Join the Track 44 Community!</h2>
 						</header>
-					<p>Discord Server - <a href="http://discord.track44.moe">Copy or Click Me!</a></p>
+					<p>Discord Server - <a href="http://discord.gg/track44">Copy or Click Me!</a></p>
 					<p>Steam Group - <a href="http://steamcommunity.com/groups/track44">Admin's World</a></p>
 					<p>Board44 - <a href="http://board44.org">Click here</a></p>
 					<p><a href="/about/">About the Track 44 Team</a></p>
@@ -109,7 +109,7 @@
 
 		<!-- List Game Servers -->
 			<article id="first" class="container box style1 right">
-				<a href="#" class="image fit"><img src="images/pic02.gif"></a>
+				<a href="https://www.youtube.com/watch?v=96Mbt36ayZ8" class="image fit" target="blank"><img src="images/pic02.gif"></a>
 				<div class="inner">
 					<header>
 					</header>
@@ -131,6 +131,10 @@
 					<p>Arma III</p>
 					<p>CS:GO</p>
 					<p>CS1.6</p>
+					<a href="videos/notfunnytbh.mp4" target="blank">
+						<div style="padding: 10px 10px;">
+						</div>
+					</a>
 				</header>
 			</article>
 
@@ -146,7 +150,13 @@
 		<!-- Portfolio	-->
 		<!--VIP Contributors -->
 
-
+			<article class="container box style2">
+				<header>
+					<h2>VIP Contributors</h2>
+					<p>Cake - Runs the <a href="https://discord.gg/HmqAjTm">DiscordBeats Music server</a>, and <a href="http://cakebot.club/">Cakebot</a> in Track 44!</p>
+					<p>Skandha! <a href="https://twitter.com/JustSkandha">https://twitter.com/JustSkandha</a></p>
+				</header>
+			</article>
 
 
 		<!-- Contributors -->
@@ -168,53 +178,69 @@
 								<td>Lumi</td>
 							</tr>
 							<tr>
-								<td>Sleep</td>
+								<td>Angel</td>
 								<td>Ghim</td>
+								<td>Noxy</td>
+							</tr>
+							<tr>
+								<td>Celly</td>
+								<td>Miako</td>
 								<td>eMiko</td>
 							</tr>
 							<tr>
-								<td>Angel</td>
-								<td>Miako</td>
+								<td>Laser</td>
+								<td>Brando</td>
 								<td>Austin</td>
 							</tr>
 							<tr>
+								<td>Sleep</td>
+								<td>Spacey</td>
+								<td>Booven</td>
+							</tr>
+							<tr>
+								<td>Deftsu</td>
+								<td>Tipper</td>
+								<td>raeyan</td>
+							</tr>
+							<tr>
 								<td>Brander</td>
-								<td>Brando</td>
-								<td>Satoshi</td>
+								<td>Kneesox</td>
+								<td>DIZIACE</td>
 							</tr>
 							<tr>
 								<td>D Money</td>
 								<td>Sir Caet</td>
-								<td>Booven</td>
+								<td>Satoshi</td>
 							</tr>
 							<tr>
-								<td>fearnlj01</td>
+								<td>Demiture</td>
 								<td>TSMALL96</td>
 								<td>Goshujin</td>
 							</tr>
 							<tr>
-								<td>Demiture</td>
+								<td>fearnlj01</td>
 								<td>Korea Boi</td>
-								<td>TDRailgun</td>
+								<td>HamleHDK</td>
 							</tr>
 							<tr>
-								<td>HamleHDK</td>
-								<td>Camo Yoshi</td>
+								<td>TDRailgun</td>
+								<td>PeachRift</td>
 								<td>poncethecat</td>
+							</tr>
+							<tr>
+								<td>Kyle Scarce</td>
+								<td>Camo Yoshi</td>
+								<td>Embarrassing</td>
 							</tr>
 							<tr>
 								<td>TheRyDesigns</td>
 								<td>TheEliteKing</td>
-								<td>Embarrassing</td>
+								<td>MyNameIsArando</td>
 							</tr>
 							<tr>
 								<td>Tecno Jellyfish</td>
 								<td>Based Sadlord Sokage</td>
-								<td>MyNameIsArando</td>
-							</tr>
-							<tr>
 								<td />
-								<td>Tipper</td>
 							</tr>
 						</tbody>
 					</table>
@@ -281,7 +307,7 @@
 		</section>
 
 		<p>
-			<a href="" title="hit counter">
+			<a title="hit counter">
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
 		</p>
