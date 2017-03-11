@@ -104,7 +104,7 @@
 					<li><p style="text-align:left;">#maintainers so we can fix stuff behind the scenes. </p></li>
 					<li><p style="text-align:left;">#contributor_chat is a <b>safe for work</b> place for contributors to do whatever they want. Donate today to gain access!</p></li>
 					<li><p style="text-align:left;">#literally_admins_only is my secret spot.</p></li>
-					<li><p style="text-align:left;">#the_noob_tube is where new members are put until they read #welcome.</p></li>
+					<li><p style="text-align:left;">#the_noob_tube is where new members are put until they read #welcome</p></li>
 					<li><p style="text-align:left;">advertising_and_promotion is a <b>safe for work</b> place to advertise and shill. You must have the <b>wired</b> role!</p></li>
 					<li><p></p></li>
 				</ul>
@@ -118,7 +118,7 @@
 			<article class="container box style2">
 				<header>
 					<h2>Voice Channel Descriptions</h2>
-				<ul class="listclass">
+				<ul>
 					<li><p style="text-align:left;">Admin.FM is a 24/7 music stream curated by myself and a few others. This is just a radio station, you can't queue your own stuff here.</p></li>
 					<li><p style="text-align:left;">Loud Zone General is for larger groups, or for being reasonably loud. If you are going to yell, scream, make funny noises, etc. then use the Loud Zone.</p></li>
 					<li><p style="text-align:left;">Chill Zone General is for any size group, but there is no yelling, screaming, mic spamming, anything whatsoever. Be chill in here.</p></li>
@@ -137,12 +137,38 @@
 				</header>
 			</article>
 
-		<p>
+		<!-- Coming Soon -->
+
+
+
+					<article class="container box style2" id="">
+						<header>
+							<div class="3u" style="float: left;margin-right: 2%;">
+									<img src="images/bots.jpg" class="image fit" alt="Bots" title="Bots">
+								</a>
+							</div>
+							<div>
+								<h2>Music Bots</h2>
+								<p>-There are a ton of them!</p>
+								<p>-A bot's prefix can be found by looking at their nickname, ex. -Admin.FM's prefix is <b>-</b> so you queue commands with <b>-</b>.</p>
+								<p><b>+bAdmin</b> stays in the Music channel and has an autoplaylist as well as a few DJs managing it.</p>
+								<p><b>!dAdmin, &lt;fAdmin,</b> and <b>rAdmin</b> are the on-demand music bots. Feel free to queue whatever, whenever.</p>
+								<p><b>-Admin.FM</b> stays in the Admin.FM channel and is just a radio, sometimes we DJ it.</p>
+
+							</div>
+						</header>
+					</article>
+
+			<p>
 			<center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
 					<p style="font-family:courier; font-size:60%;">Cursed Image &copy; Maria 2017</p>
 				</center>
 		</p>
-
+		<p>
+			<audio id="music" controls>
+			<source src="Track 44.mp3" type="audio/mpeg">
+			</audio>
+		</p>
 	</body>
 </html>
