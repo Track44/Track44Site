@@ -34,11 +34,6 @@
 		<!-- Demi please fix this damn Navbar for mobile smh -->
 		<div class="bar" id="navbar">
 			<div class="insidebar">
-				<a href="#banner" class="button style4 scrolly-middle">Connect</a>
-				<a href="#community" class="button style4 scrolly-middle">Community</a>
-				<a href="#first" class="button style4 scrolly-middle">Game Servers</a>
-				<a href="#contributors" class="button style4 scrolly-middle">Contributors</a>
-				<a href="#t44hq" class="button style4 scrolly-middle">T44 HQ</a>
 				||
 				<a href="/about/" class="button style4">About Us</a>
 				<a href="/mail/" class="button style4">Mail</a>
