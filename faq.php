@@ -104,7 +104,7 @@
 					<li><p style="text-align:left;">#maintainers so we can fix stuff behind the scenes. </p></li>
 					<li><p style="text-align:left;">#contributor_chat is a <b>safe for work</b> place for contributors to do whatever they want. Donate today to gain access!</p></li>
 					<li><p style="text-align:left;">#literally_admins_only is my secret spot.</p></li>
-					<li><p style="text-align:left;">#the_noob_tube is where new members are put until they read #welcome</p></li>
+					<li><p style="text-align:left;">#the_noob_tube is where new members are put until they read #welcome.</p></li>
 					<li><p style="text-align:left;">advertising_and_promotion is a <b>safe for work</b> place to advertise and shill. You must have the <b>wired</b> role!</p></li>
 					<li><p></p></li>
 				</ul>
