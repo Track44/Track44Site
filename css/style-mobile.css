@@ -22,7 +22,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 	{
 		font-size: 1em;
 	}
-	
+
 	h2
 	{
 		font-size: 1.25em;
@@ -38,20 +38,20 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 			ul.default
 			{
 			}
-			
+
 				ul.default li
 				{
 					padding-left: 0.5em;
-				}		
+				}
 
 			ul.icons
 			{
-			}	
-			
+			}
+
 				ul.icons li
 				{
 				}
-				
+
 					ul.icons a
 					{
 						width: 2em;
@@ -62,7 +62,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 			ul.menu
 			{
 			}
-			
+
 				ul.menu li
 				{
 					display: block;
@@ -70,7 +70,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 					border: 0;
 					margin: 1em 0 0 0;
 				}
-				
+
 				ul.menu li:first-child
 				{
 					margin-top: 0;
@@ -79,13 +79,13 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 			ul.actions
 			{
 			}
-			
+
 				ul.actions li
 				{
 					display: block;
 					margin: 1em 0 0 0;
 				}
-				
+
 				ul.actions li:first-child
 				{
 					margin-top: 0;
@@ -105,7 +105,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 				}
 
 	/* Button */
-		
+
 		input[type="button"],
 		input[type="submit"],
 		input[type="reset"],
@@ -113,7 +113,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 		{
 			padding: 0.75em 0 0.75em 0;
 			width: 100%;
-			max-width: 320px;
+			max-width: 100px; /* down from 320px to fix mobile navbar */
 		}
 
 	/* Box */
@@ -128,7 +128,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 				top: -4.5em;
 				height: 4.5em;
 			}
-		
+
 			.box:before
 			{
 				width: 45px;
@@ -144,7 +144,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 				padding: 0;
 				text-align: center;
 			}
-			
+
 				.box.style1 .image
 				{
 					position: relative !important;
@@ -169,7 +169,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 			.box.style2
 			{
 			}
-			
+
 				.box.style2 .inner
 				{
 				}
@@ -177,7 +177,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 					.box.style2 .inner .row
 					{
 					}
-					
+
 						.box.style2 .inner .row:before
 						{
 							display: none;
@@ -209,7 +209,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 			padding-left: 2em;
 			padding-right: 2em;
 		}
-		
+
 			#header header h1
 			{
 				font-size: 1.75em;
@@ -228,7 +228,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 				left: 50%;
 				height: 4.5em;
 			}
-		
+
 			#header footer:before
 			{
 				width: 45px;
@@ -253,7 +253,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 		{
 			margin: 0 0 1em 0;
 		}
-		
+
 			#banner header h2
 			{
 				font-size: 1.5em;
@@ -263,7 +263,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
-	
+
 	#footer
 	{
 	}
@@ -272,7 +272,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 		{
 			padding: 0.5em 1.25em 0.5em 1.25em;
 		}
-		
+
 		#footer .copyright
 		{
 			font-size: 1em;
@@ -286,7 +286,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 	.poptrox-popup
 	{
 	}
-	
+
 		.poptrox-popup .nav-next,
 		.poptrox-popup .nav-previous
 		{
@@ -298,7 +298,7 @@ spaghetti code by unbendablestraw. some code was used from html5 up, css3 please
 			{
 				display: none;
 			}
-		
+
 		.poptrox-popup .closer
 		{
 			opacity: 0.5;
