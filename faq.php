@@ -77,7 +77,7 @@
 			<article class="container box style2">
 				<header>
 					<h2>Text Channel Descriptions</h2>
-				<ul>
+				<ul class="listclass">
 					<li><p>#welcome is the <b>safe for work</b> default channel that shows when you join. It outlines the basics.</p></li>
 					<li><p>#faq Is the channel that has links to all the information, and to here.</p></li>
 					<li><p>#announcements gives me my own soap box to shove my important crap into your brains. Please keep this channel unmuted, or you will miss out on giveaways, polls, upcoming events, and more!</p></li>
