@@ -141,20 +141,19 @@
 
 
 
-					<article class="container box style2" id="">
+					<article class="container box style2">
 						<header>
 							<div class="3u" style="float: left;margin-right: 2%;">
 									<img src="images/bots.jpg" class="image fit" alt="Bots" title="Bots">
-								</a>
 							</div>
 							<div>
 								<h2>Music Bots</h2>
 							<ul class="listclass">
-								<li><p>-There are a ton of them!</p></li>
-								<li><p>-A bot's prefix can be found by looking at their nickname, ex. -Admin.FM's prefix is <b>-</b> so you queue commands with <b>-</b>.</p></li>
-								<li><p><b>+bAdmin</b> stays in the Music channel and has an autoplaylist as well as a few DJs managing it.</p></li>
-								<li><p><b>!dAdmin, &lt;fAdmin,</b> and <b>rAdmin</b> are the on-demand music bots. Feel free to queue whatever, whenever.</p></li>
-								<li><p><b>-Admin.FM</b> stays in the Admin.FM channel and is just a radio, sometimes we DJ it.</p></li>
+								<li><p style="text-align:left;">-There are a ton of them!</p></li>
+								<li><p style="text-align:left;">-A bot's prefix can be found by looking at their nickname, ex. -Admin.FM's prefix is <b>-</b> so you queue commands with <b>-</b>.</p></li>
+								<li><p style="text-align:left;"><b>+bAdmin</b> stays in the Music channel and has an autoplaylist as well as a few DJs managing it.</p></li>
+								<li><p style="text-align:left;"><b>!dAdmin, &lt;fAdmin,</b> and <b>rAdmin</b> are the on-demand music bots. Feel free to queue whatever, whenever.</p></li>
+								<li><p style="text-align:left;"><b>-Admin.FM</b> stays in the Admin.FM channel and is just a radio, sometimes we DJ it.</p></li>
 							</ul>
 							</div>
 						</header>
