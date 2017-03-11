@@ -118,13 +118,13 @@
 			<article class="container box style2">
 				<header>
 					<h2>Voice Channel Descriptions</h2>
-				<ul>
-					<li><p style="text-align:left;">Admin.FM is a 24/7 music stream curated by myself and a few others. This is just a radio station, you can't queue your own stuff here.</p></li>
+				<ul class="listclass">
+					<li><p style="text-align:left;">Admin.FM is a 24/7 music stream curated by myself and a few others. This is just a radio station, you can't queue your own stuff here. We occasionally DJ it.</p></li>
 					<li><p style="text-align:left;">Loud Zone General is for larger groups, or for being reasonably loud. If you are going to yell, scream, make funny noises, etc. then use the Loud Zone.</p></li>
 					<li><p style="text-align:left;">Chill Zone General is for any size group, but there is no yelling, screaming, mic spamming, anything whatsoever. Be chill in here.</p></li>
 					<li><p style="text-align:left;">smol General is for small crowds. No loud or quiet rules, go with the crowd.</p></li>
 					<li><p style="text-align:left;">Name Your Game #X is restricted to people with any of the self-assignable gaming roles. They are also user limited, so you don't have too many people joining.</p></li>
-					<li><p style="text-align:left;">Music is pretty much Lum's corner for DJ-ing. If you don't like what he's playing, there's other music channels and music bots for you.</p></li>
+					<li><p style="text-align:left;">Music is pretty much Lum's (and a few others) corner for DJ-ing. If you don't like what he's playing, there's other music channels and music bots for you.</p></li>
 					<li><p style="text-align:left;">Contributor Voice is restricted to contributors, duh. Contribute today to get access!</p></li>
 					<li><p style="text-align:left;">The Bakery.fm is CakeBot on autoplay, but you can control it.</p></li>
 					<li><p style="text-align:left;">BADmins timeout is if you misbehave</p></li>
@@ -149,12 +149,13 @@
 							</div>
 							<div>
 								<h2>Music Bots</h2>
-								<p>-There are a ton of them!</p>
-								<p>-A bot's prefix can be found by looking at their nickname, ex. -Admin.FM's prefix is <b>-</b> so you queue commands with <b>-</b>.</p>
-								<p><b>+bAdmin</b> stays in the Music channel and has an autoplaylist as well as a few DJs managing it.</p>
-								<p><b>!dAdmin, &lt;fAdmin,</b> and <b>rAdmin</b> are the on-demand music bots. Feel free to queue whatever, whenever.</p>
-								<p><b>-Admin.FM</b> stays in the Admin.FM channel and is just a radio, sometimes we DJ it.</p>
-
+							<ul class="listclass">
+								<li><p>-There are a ton of them!</p></li>
+								<li><p>-A bot's prefix can be found by looking at their nickname, ex. -Admin.FM's prefix is <b>-</b> so you queue commands with <b>-</b>.</p></li>
+								<li><p><b>+bAdmin</b> stays in the Music channel and has an autoplaylist as well as a few DJs managing it.</p></li>
+								<li><p><b>!dAdmin, &lt;fAdmin,</b> and <b>rAdmin</b> are the on-demand music bots. Feel free to queue whatever, whenever.</p></li>
+								<li><p><b>-Admin.FM</b> stays in the Admin.FM channel and is just a radio, sometimes we DJ it.</p></li>
+							</ul>
 							</div>
 						</header>
 					</article>
