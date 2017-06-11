@@ -29,8 +29,8 @@
         "show_port": true,
         "list": [
             {
-                "name": "Web Server",
-                "host": "localhost",
+                "name": "Mail Server",
+                "host": "mail.track44.moe",
                 "port": 80,
                 "protocol": "tcp"
             },
