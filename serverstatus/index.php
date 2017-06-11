@@ -26,10 +26,13 @@ $update = $Config->checkUpdate();
                 return value + '%';
             }
         });
+
         $('a.reload').click(function(e){
             e.preventDefault();
         });
+
         esm.getAll();
+
         <?php if ($Config->get('esm:auto_refresh') > 0): ?>
             setInterval(function(){ esm.getAll(); }, <?php echo $Config->get('esm:auto_refresh') * 1000; ?>);
         <?php endif; ?>
