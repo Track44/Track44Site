@@ -346,6 +346,16 @@ ul.listclass li {
     z-index: 100;
   }
 
+.bar responsive
+  {
+    position: fixed;
+    width: 100%;
+    background-color: #212121;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    z-index: 100;
+}
+
   #navbar .is-scroll
   {
     background-attachment:	scroll,								scroll;
@@ -990,7 +1000,7 @@ ul.listclass li {
   }
 
   @media screen and (max-width: 600px) {
-    .bar.responsive {position: relative;}
+    .bar.responsive {position: fixed;}
     .bar.responsive a.icon {
       position: absolute;
       right: 0;

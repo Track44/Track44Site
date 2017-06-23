@@ -43,6 +43,7 @@
 				<a href="/about/" class="button style4">About Us</a>
 				<a href="/mail/" class="button style4">Mail</a>
 				<a href="/colors/" class="button style4">Colors</a>
+				<a href="https://wiki.track44.moe" class="button style4">FAQ/Wiki</a>
 				<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
 			</div>
 		</div>
