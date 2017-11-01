@@ -1,4 +1,4 @@
-<?php
+/* <?php
 
 	if (file_exists('count_file.txt')) 
 	{
@@ -17,4 +17,4 @@
 		echo '1';
 		fclose($fil);
 	}
-?>
+?> */
