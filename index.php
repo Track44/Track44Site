@@ -307,11 +307,11 @@
 			<iframe src="https://discordapp.com/widget?id=188556676121624577&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 		</section>
 
-		<p>
+		<!-- <p>
 			<a title="hit counter">
 			Vistor Count: <?php include "/var/www/count.php"; ?>
 			</a>
-		</p>
+		</p> -->
 		<p>
 			<center>
 					<img src="https://i.imgur.com/nPxjS4J.gif" />
